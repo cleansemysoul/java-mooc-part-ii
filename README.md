@@ -1,0 +1,1 @@
+Les parties de 8 à 12 du mooc de l'universitée d'Helsinki, j'ai exclu les parties 13 et 14 car elles couvrent des sujets JavaFX et les dessins en Java, ce qui ne me servira pas vraiment, et que je peux apprendre rapidement plus tard si besoin.
